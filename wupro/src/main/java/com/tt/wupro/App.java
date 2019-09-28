@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("112");
-        
+        int a=1;
         System.out.println("fsf");
     }
 }
