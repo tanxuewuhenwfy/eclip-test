@@ -1,3 +1,5 @@
-wupro/target/
-/.project
-wupro/settings/
+/target/
+.settings
+.classpath
+.project
+
