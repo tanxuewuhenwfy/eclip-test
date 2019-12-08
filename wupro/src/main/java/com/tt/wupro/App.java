@@ -13,7 +13,9 @@ public class App
         int a=1;
         System.out.println("fsf");
         System.out.println("fsf");
-        
+        int b = 3;
+
         int c = 2;
+
     }
 }
