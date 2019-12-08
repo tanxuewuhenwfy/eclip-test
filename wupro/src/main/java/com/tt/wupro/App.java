@@ -13,5 +13,6 @@ public class App
         int a=1;
         System.out.println("fsf");
         System.out.println("fsf");
+        System.out.println("aa");
     }
 }
